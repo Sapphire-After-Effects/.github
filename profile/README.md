@@ -1,7 +1,7 @@
 # Sapphire FX Visual Effects Toolkit for Windows
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR535ifUO54QMW2rGUh3w3VwiG4pdr3TOSRUQ&s" alt="Sapphire FX">
+<img src="https://mysoftwarefree.com/wp-content/uploads/2024/12/Boris-FX-Sapphire-Plug-ins-2025-Free-Download.png" alt="Sapphire FX">
 </div>
 
 

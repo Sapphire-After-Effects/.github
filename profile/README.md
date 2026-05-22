@@ -1,7 +1,7 @@
 # Sapphire FX Visual Effects Toolkit for Windows
 
 <div align="center">
-<img src="https://dummyimage.com/820x220/111111/ffffff&text=Sapphire+FX+for+Windows" alt="Sapphire FX">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR535ifUO54QMW2rGUh3w3VwiG4pdr3TOSRUQ&s" alt="Sapphire FX">
 </div>
 
 

